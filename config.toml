@@ -1,0 +1,78 @@
+baseurl = "https://acala.rogerjbos.com/"
+languageCode = "en-us"
+title = "Karura Reports"
+theme = "ghostwriter"
+googleAnalytics = "UA-121878757-3"
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+copyright = "2021 - Roger J. Bos, CFA"
+
+[Privacy]
+
+[Privacy.disqus]
+    disable = true
+
+[Privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+
+[Author]
+    name = "Roger J. Bos, CFA"
+    profile = ""
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    mainSections = "post"
+    intro = true
+    headline = "Karura Reports"
+    description = ""
+    github = ""
+    gitlab = ""
+    linkedin = ""
+    twitter = ""
+    telegram = ""
+    stackoverflow = ""
+    email = ""
+    opengraph = true
+    shareTwitter = true
+    shareTelegram = true
+    shareGooglePlus = false
+    shareLinkedIn = true
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+    exponeaJsUrl = ""
+    exponeaTarget = ""
+    exponeaToken = ""
+    exponeaTrackVisits = false
+    readingTime = false
+    readingTimeText = "Estimated reading time:"
+
+[permalinks]
+    post = "/:slug/"
+    
+[[menu.main]]
+    name = "Swap Performance"
+    url = "/swap.html"
+    weight = 1
+
+[params]
+    description = "Karura Reports"
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
