@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karura Reports</title>
+    <link>https://acala.rogerjbos.com/</link>
+    <description>Recent content on Karura Reports</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 - Roger J. Bos, CFA</copyright>
+    
+	<atom:link href="https://acala.rogerjbos.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://acala.rogerjbos.com/swap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acala.rogerjbos.com/swap/</guid>
+      <description>Karura Swap Performance window.FlexDashboardComponents = [];  [{&#34;title&#34;:&#34;Source Code&#34;,&#34;icon&#34;:&#34;fa-code&#34;,&#34;href&#34;:&#34;source_embed&#34;,&#34;align&#34;:&#34;right&#34;}]                      /* Dashboard CSS from Keen IO Dashboards (https://github.com/keen/dashboards) */ body { background: #f2f2f2; padding: 60px 0 0 8px; /* padding-top overridden by theme */ } body hr { border-color: #d7d7d7; margin: 10px 0; } .navbar-inverse .navbar-nav  li  a, .</description>
+    </item>
+    
+  </channel>
+</rss>
