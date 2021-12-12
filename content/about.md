@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-This site hosts reports for [Karura - The DeFi Hub of Kusama](acala.network/karura).
+This site hosts reports for [Karura - The DeFi Hub of Kusama](https://acala.network/karura).
 
 The report shows a dashboard followed by a chart of the activity over the past 8 days for each of the following four measures:
 
