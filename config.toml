@@ -25,9 +25,9 @@ copyright = "2021 - Roger J. Bos, CFA"
     tag = "tags"
 
 [Params]
-    mainSections = "post"
+    mainSections = "/swap.html"
     intro = true
-    headline = "Karura Reports"
+    headline = ""
     description = ""
     github = ""
     gitlab = ""
@@ -36,11 +36,11 @@ copyright = "2021 - Roger J. Bos, CFA"
     telegram = ""
     stackoverflow = ""
     email = ""
-    opengraph = true
-    shareTwitter = true
-    shareTelegram = true
+    opengraph = false
+    shareTwitter = false
+    shareTelegram = false
     shareGooglePlus = false
-    shareLinkedIn = true
+    shareLinkedIn = false
     dateFormat = "Mon, Jan 2, 2006"
     highlightJsUrl = ""
     highlightJsLocalUrl = ""
