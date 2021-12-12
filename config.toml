@@ -55,9 +55,12 @@ copyright = "2021 - Roger J. Bos, CFA"
     post = "/:slug/"
     
 [[menu.main]]
+    name = "About"
+    url = "/about.html"
+    weight = 1
     name = "Swap Performance"
     url = "/swap.html"
-    weight = 1
+    weight = 2
 
 [params]
     description = "Karura Reports"
