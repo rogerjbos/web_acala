@@ -20,5 +20,16 @@
       <description>Karura Swap Performance window.FlexDashboardComponents = [];  [{&#34;title&#34;:&#34;Source Code&#34;,&#34;icon&#34;:&#34;fa-code&#34;,&#34;href&#34;:&#34;source_embed&#34;,&#34;align&#34;:&#34;right&#34;}]                      /* Dashboard CSS from Keen IO Dashboards (https://github.com/keen/dashboards) */ body { background: #f2f2f2; padding: 60px 0 0 8px; /* padding-top overridden by theme */ } body hr { border-color: #d7d7d7; margin: 10px 0; } .navbar-inverse .navbar-nav  li  a, .</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://acala.rogerjbos.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acala.rogerjbos.com/about/</guid>
+      <description>This site hosts reports for Karura - The DeFi Hub of Kusama.
+The report shows a dashboard followed by a chart of the activity over the past 8 days for each of the following four measures:
+ Active Users Number of trades Average trades per user Trading Volume  Each dashboard and chart compares the latest day&#39;s swap activity to the prior 7-day average, coloring the box green (success), yellow (warning), or red (danger).</description>
+    </item>
+    
   </channel>
 </rss>

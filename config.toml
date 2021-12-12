@@ -58,6 +58,7 @@ copyright = "2021 - Roger J. Bos, CFA"
     name = "About"
     url = "/about.html"
     weight = 1
+[[menu.main]]
     name = "Swap Performance"
     url = "/swap.html"
     weight = 2
