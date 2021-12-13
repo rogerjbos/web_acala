@@ -62,6 +62,10 @@ copyright = "2021 - Roger J. Bos, CFA"
     name = "Swap Performance"
     url = "/swap.html"
     weight = 2
+[[menu.main]]
+    name = "Swap Performance Version 2"
+    url = "/swap_ver2.html"
+    weight = 3
 
 [params]
     description = "Karura Reports"
