@@ -63,9 +63,13 @@ copyright = "2021 - Roger J. Bos, CFA"
     url = "/swap.html"
     weight = 2
 [[menu.main]]
-    name = "Swap Performance Version 2"
+    name = "Swap Performance Ver. 2"
     url = "http://acala.shinyapps.io/karura_dashboard_ver2"
     weight = 3
+[[menu.main]]
+    name = "Swap Performance Ver. 3"
+    url = "http://acala.shinyapps.io/karura_dashboard_ver3"
+    weight = 4
 
 [params]
     description = "Karura Reports"
