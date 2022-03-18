@@ -1,6 +1,6 @@
 baseurl = "https://acala.rogerjbos.com/"
 languageCode = "en-us"
-title = "Karura Reports"
+title = "Acala / Karura Reports"
 theme = "ghostwriter"
 googleAnalytics = "UA-121878757-3"
 disqusShortname = ""
@@ -59,12 +59,16 @@ copyright = "2021 - Roger J. Bos, CFA"
     url = "/about.html"
     weight = 1
 [[menu.main]]
-    name = "Swap Performance"
-    url = "/swap_ver3.html"
+    name = "Acala Swap Performance"
+    url = "/swap_acala.html"
     weight = 2
+[[menu.main]]
+    name = "Karura Swap Performance"
+    url = "/swap_ver3.html"
+    weight = 3
 
 [params]
-    description = "Karura Reports"
+    description = "Acala / Karura Reports"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
