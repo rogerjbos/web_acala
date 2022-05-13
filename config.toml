@@ -66,6 +66,22 @@ copyright = "2021 - Roger J. Bos, CFA"
     name = "Karura Swap Performance"
     url = "/swap_karura.html"
     weight = 3
+[[menu.main]]
+    name = "Acala Liquidation Report"
+    url = "/liquidation_acala.html"
+    weight = 4
+[[menu.main]]
+    name = "Karura Liquidation Report"
+    url = "/liquidation_karura.html"
+    weight = 5
+[[menu.main]]
+    name = "Karura Sandwich Attack Report"
+    url = "/dashboard_sandwich_karura.html"
+    weight = 6
+[[menu.main]]
+    name = "Staking Dashboard"
+    url = "/dashboard_staking.html"
+    weight = 7
 
 [params]
     description = "Acala / Karura Reports"
