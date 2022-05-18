@@ -82,6 +82,10 @@ copyright = "2021 - Roger J. Bos, CFA"
     name = "Staking Dashboard"
     url = "/dashboard_staking.html"
     weight = 7
+[[menu.main]]
+    name = "Tokens Dashboard"
+    url = "/tokens.html"
+    weight = 8
 
 [params]
     description = "Acala / Karura Reports"
