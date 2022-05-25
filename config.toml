@@ -59,37 +59,42 @@ copyright = "2021 - Roger J. Bos, CFA"
     url = "/about.html"
     weight = 1
 [[menu.main]]
-    name = "Acala Swap Performance"
+    name = "Acala Swaps"
     url = "/swap_acala.html"
     weight = 2
 [[menu.main]]
-    name = "Karura Swap Performance"
+    name = "Karura Swaps"
     url = "/swap_karura.html"
     weight = 3
 [[menu.main]]
-    name = "Acala Liquidation Report"
+    name = "Acala Liquidations"
     url = "/liquidation_acala.html"
     weight = 4
 [[menu.main]]
-    name = "Karura Liquidation Report"
+    name = "Karura Liquidations"
     url = "/liquidation_karura.html"
     weight = 5
 [[menu.main]]
-    name = "Karura Sandwich Attack Report"
+    name = "Sandwich Attack"
     url = "/dashboard_sandwich_karura.html"
     weight = 6
 [[menu.main]]
-    name = "Staking Dashboard"
+    name = "Staking"
     url = "/dashboard_staking.html"
     weight = 7
 [[menu.main]]
-    name = "Tokens Dashboard"
+    name = "Tokens"
     url = "/tokens.html"
     weight = 8
 [[menu.main]]
-    name = "Accounts Dashboard"
+    name = "Accounts"
     url = "/dashboard_accounts.html"
     weight = 9
+
+[[menu.main]]
+    name = "Pool Stats"
+    url = "/dashboard_pool_stats.html"
+    weight = 10
 
 [params]
     description = "Acala / Karura Reports"
