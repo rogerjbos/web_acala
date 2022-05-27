@@ -2,19 +2,48 @@
 title: "About"
 ---
 
-This site hosts reports for [Karura - The DeFi Hub of Kusama](https://acala.network/karura).
+This site hosts reports for the Acala & Karura Networks.  The R / Python source code is available on [Github](https://github.com/AcalaNetwork/karura-reports).  Other resources are listed below.
 
-The report shows a dashboard followed by a chart of the activity over the past 8 days for each of the following four measures:
+### Official Acala / Karura Subquery Projects:
 
-* Active Users
-* Number of trades
-* Average trades per user
-* Trading Volume
+General:
 
-Each dashboard and chart compares the latest day's swap activity to the prior 7-day average, coloring the box green (success), yellow (warning), or red (danger). If the latest day's activity is above the 7-day average (a ratio of 1.0 or above), the box is green. If the ratio is below 0.5, it is red. Otherwise it is yellow.
+* [Acala Dex Data](https://explorer.subquery.network/subquery/AcalaNetwork/acala)
 
-These dashboards are available at the aggregate level and for each trading pair.
+* [Karura Dex Data](https://explorer.subquery.network/subquery/AcalaNetwork/karura)
 
-The report is run daily at 5 past midnight UTC.
 
-The R source code is available on [Github](https://github.com/AcalaNetwork/karura-reports).
+Homa (Staking protocol):
+
+* [Acala Homa Data](https://explorer.subquery.network/subquery/AcalaNetwork/acala-homa)
+
+* [Karura Homa Data](https://explorer.subquery.network/subquery/AcalaNetwork/karura-homa)
+
+
+Loans:
+
+* [Acala Loan Data](https://explorer.subquery.network/subquery/AcalaNetwork/acala-loans)
+
+* [Karura Loan Data](https://explorer.subquery.network/subquery/AcalaNetwork/karura-loan)
+
+
+Swaps:
+
+* [Acala Dex Data](https://explorer.subquery.network/subquery/AcalaNetwork/acala-dex)
+
+* [Karura Dex Data](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dex)
+
+
+Tokens:
+
+* [Acala Token Data](https://explorer.subquery.network/subquery/AcalaNetwork/acala-tokens)
+
+* [Karura Token Data](https://explorer.subquery.network/subquery/AcalaNetwork/karura-tokens)
+
+
+Transfers: 
+
+* [Acala Transfer Data](https://explorer.subquery.network/subquery/AcalaNetwork/karura-transfer)
+
+* [Karura Transfer Data](https://explorer.subquery.network/subquery/AcalaNetwork/karura-transfer)
+
