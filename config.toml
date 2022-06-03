@@ -90,11 +90,14 @@ copyright = "2021 - Roger J. Bos, CFA"
     name = "Accounts"
     url = "/dashboard_accounts.html"
     weight = 9
-
 [[menu.main]]
     name = "Pool Stats"
     url = "/dashboard_pool_stats.html"
     weight = 10
+[[menu.main]]
+    name = "Daily Pool Stats"
+    url = "/dashboard_daily_pool_stats.html"
+    weight = 11
 
 [params]
     description = "Acala / Karura Reports"
