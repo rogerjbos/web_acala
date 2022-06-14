@@ -98,6 +98,14 @@ copyright = "2021 - Roger J. Bos, CFA"
     name = "Daily Pool Stats"
     url = "/dashboard_daily_pool_stats.html"
     weight = 11
+[[menu.main]]
+    name = "Acala Income"
+    url = "/dashboard_income_acala.html"
+    weight = 12
+[[menu.main]]
+    name = "Karura Income"
+    url = "/dashboard_income_karura.html"
+    weight = 13
 
 [params]
     description = "Acala / Karura Reports"
