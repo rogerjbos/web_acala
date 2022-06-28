@@ -114,6 +114,10 @@ copyright = "2021 - Roger J. Bos, CFA"
     name = "Karura TVL"
     url = "/dashboard_TVL_karura.html"
     weight = 15
+[[menu.main]]
+    name = "aUSD Issuance"
+    url = "/dashboard_aUSD.html"
+    weight = 16
 
 [params]
     description = "Acala / Karura Reports"
