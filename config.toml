@@ -106,6 +106,14 @@ copyright = "2021 - Roger J. Bos, CFA"
     name = "Karura Income"
     url = "/dashboard_income_karura.html"
     weight = 13
+[[menu.main]]
+    name = "Total Value Locked"
+    url = "/dashboard_TVL.html"
+    weight = 14
+[[menu.main]]
+    name = "aUSD Issuance"
+    url = "/dashboard_aUSD.html"
+    weight = 15
 
 [params]
     description = "Acala / Karura Reports"
