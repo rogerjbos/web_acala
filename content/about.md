@@ -6,21 +6,14 @@ This site hosts reports for the Acala & Karura Networks.  The R / Python source 
 
 ### Official Acala / Karura Subquery Projects:
 
-General:
-
-* [Acala Dex Data](https://explorer.subquery.network/subquery/AcalaNetwork/acala)
-
-* [Karura Dex Data](https://explorer.subquery.network/subquery/AcalaNetwork/karura)
-
-
-Homa (Staking protocol):
+Staking (Homa protocol):
 
 * [Acala Homa Data](https://explorer.subquery.network/subquery/AcalaNetwork/acala-homa)
 
 * [Karura Homa Data](https://explorer.subquery.network/subquery/AcalaNetwork/karura-homa)
 
 
-Loans:
+Loans (Honzon protocol):
 
 * [Acala Loan Data](https://explorer.subquery.network/subquery/AcalaNetwork/acala-loans)
 
